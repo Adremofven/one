@@ -1,2 +1,2 @@
 # one
-My first repo.
+记录第一个作品
